@@ -1,8 +1,8 @@
 - 👋 Hi, I’m **Hart Lorenzo S. Pableo**! Nice to meet you!
-- 👀 I’m interested in tech & coding, martial arts, and nature.
-- 🌱 I’m currently learning advanced front-end and WordPress development!
+- 👀 I’m interested in tech & coding, travelling, and nature.
+- 🌱 I’m currently learning advanced front-end and progressively transitioning to Full-Stack development!
 - 📫 How to reach me: <br>
-  Email: pableoh@gmail.com <br>
+  Email: <a href="mailto:pableoh@gmail.com">pableoh@gmail.com</a> <br>
   Website: <a href="https://hartpableo.com/">Hart Pableo | Web Developer</a> <br>
   LinkedIn: <a href="https://www.linkedin.com/in/hart-pableo-05ab81207/">Hart Pableo</a>
 
