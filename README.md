@@ -1,3 +1,5 @@
+<img src="gh-cover.png" alt="Cover Image of Hart Pableo's GitHub Profile" style="margin-bottom: 25px;">
+
 - 👋 Hi, I’m **Hart Lorenzo S. Pableo**! Nice to meet you!
 - 👀 I’m interested in tech & coding, travelling, and nature.
 - 🌱 I’m currently learning Drupal development and progressively transitioning to Full-Stack development!
