@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m **Hart Lorenzo S. Pableo**! Nice to meet you!
 - 👀 I’m interested in tech & coding, travelling, and nature.
-- 🌱 I’m currently in Drupal development and progressively transitioning to Full-Stack development as a PHP developer!
+- 🌱 I’m currently in Drupal and WordPress development and progressively transitioning to Full-Stack development as a PHP developer!
 - 📫 How to reach me: <br>
   Email: <a href="mailto:pableoh@gmail.com">pableoh@gmail.com</a> <br>
   LinkedIn: <a href="https://www.linkedin.com/in/hart-pableo-05ab81207/" target="_blank">Hart Pableo</a>
