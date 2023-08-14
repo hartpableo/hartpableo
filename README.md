@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Drupal development and progressively transitioning to Full-Stack development!
 - 📫 How to reach me: <br>
   Email: <a href="mailto:pableoh@gmail.com">pableoh@gmail.com</a> <br>
-  Website: <a href="https://hartpableo.com/" target="_blank">Hart Pableo | Web Developer</a> <br>
   LinkedIn: <a href="https://www.linkedin.com/in/hart-pableo-05ab81207/" target="_blank">Hart Pableo</a>
 
 <!---
