@@ -9,10 +9,10 @@
 - Currently, my development journey is centered around Drupal and WordPress, working on both the front-end and back-end of both systems. However, I'm also on a path towards becoming a Full-Stack developer with a focus on PHP. Join me as I embrace the world of web development and create innovative solutions!
 --------
 - 📫 How to reach me: <br>
-  Email: <a href="mailto:pableoh@gmail.com">pableoh@gmail.com</a> <br>
-  Website: https://hartpableo.com/ <br>
-  LinkedIn: <a href="https://www.linkedin.com/in/hart-pableo-05ab81207/" target="_blank">Hart Pableo</a> <br>
-  X: <a href="https://x.com/PableoHart" target="_blank">@PableoHart</a>
+  Email: [pableoh@gmail.com](mailto:pableoh@gmail.com) <br>
+  Website: [hartpableo.com](https://hartpableo.com/) <br>
+  LinkedIn: [Hart Pableo](https://www.linkedin.com/in/hart-pableo-05ab81207/) <br>
+  X: [@PableoHart](https://x.com/PableoHart)
 
 <!---
 hartpableo/hartpableo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
