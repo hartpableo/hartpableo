@@ -26,7 +26,7 @@ To me, becoming a strong engineer means:
 - **CMS** — Custom Drupal & WordPress builds + Gutenberg blocks development
 - **Front-end** — HTML, CSS, JavaScript
 - **Back-end** — PHP
-- **Practices** — Simple & efficient architecture, readable codebases, long-term maintainability, accessible & secure websites
+- **Practices** — Simple & efficient architecture, readable codebases, long-term maintainability, accessible & secure websites, AI augmentation
 
 ---
 
@@ -34,6 +34,7 @@ To me, becoming a strong engineer means:
 
 | | |
 |---|---|
-| 🌐 Website | [hartpableo.com](https://hartpableo.com/) |
-| 💼 LinkedIn | [Hart Pableo](https://www.linkedin.com/in/hart-pableo-05ab81207/) |
-| 📧 Email | [pableoh@gmail.com](mailto:pableoh@gmail.com) |
+| Website | [hartpableo.com](https://hartpableo.com/) |
+| LinkedIn | [Hart Pableo](https://www.linkedin.com/in/hart-pableo-05ab81207/) |
+| Email | [pableoh@gmail.com](mailto:pableoh@gmail.com) |
+| Gitlab | [pableoh](https://gitlab.com/pableoh)
