@@ -51,15 +51,15 @@ Converted XARA design files into static and WordPress websites using HTML, CSS, 
 
 ## Projects
 
-### [My Budget Tracker](https://my-budget-tracker.hartpableo.com/)
-A monthly budget tracker web app for managing assets and liabilities with a clear financial overview.
-
-`Apache` `Symfony` `MySQL` `Bootstrap 5`
-
 ### [Digimenu](https://digimenu.hartpableo.com)
 A SaaS for Filipino SMEs that provide solutions for digitizing their menu and tracking orders seamlessly and real-time without the overhead of complex systems.
 
 `Docker` `Nginx` `AssetMapper` `Preact` `Symfony` `MySQL` `Bootstrap 5`
+
+### [My Budget Tracker](https://my-budget-tracker.hartpableo.com/)
+A monthly budget tracker web app for managing assets and liabilities with a clear financial overview.
+
+`Apache` `Symfony` `MySQL` `Bootstrap 5`
 
 ---
 
