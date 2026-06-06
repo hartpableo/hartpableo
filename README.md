@@ -56,11 +56,6 @@ A SaaS for Filipino SMEs that provide solutions for digitizing their menu and tr
 
 `Docker` `Nginx` `AssetMapper` `Preact` `Symfony` `MySQL` `Bootstrap 5`
 
-### [My Budget Tracker](https://my-budget-tracker.hartpableo.com/)
-A monthly budget tracker web app for managing assets and liabilities with a clear financial overview.
-
-`Apache` `Symfony` `MySQL` `Bootstrap 5`
-
 ---
 
 ## Connect
